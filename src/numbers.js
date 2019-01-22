@@ -1,45 +1,45 @@
 const add = (a, b) => {
-  // your code here
+  // add the two numbers together
 };
 
 const subtract = (a, b) => {
-  // your code here
+  // subtract the second number from the first
 };
 
 const multiply = (a, b) => {
-  // your code here
+  // multiply the two numbers together
 };
 
 const divide = (a, b) => {
-  // your code here
+  // divide the first number by the second number
 };
 
 const power = (a, b) => {
-  // your code here
+  // multiply the first number by the power of the second number
 };
 
 const round = (a) => {
-  // your code here
+  // round the number to the neared whole number
 };
 
 const roundUp = (a) => {
-  // your code here
+  // round the number up
 };
 
 const roundDown = (a) => {
-  // your code here
+  // round the number down
 };
 
 const absolute = (a) => {
-  // your code here
+  // return the absolute value of the number
 };
 
 const quotient = (a, b) => {
-  // your code here
+  // divide the first number by the second, return the answer without the remainder
 };
 
 const remainder = (a, b) => {
-  // your code here
+  // divide the first number by the second, only return the remainder
 };
 
 module.exports = {
