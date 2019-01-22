@@ -1,44 +1,44 @@
-const add = (a, b) => {
+const add = (num1, num2) => {
   // add the two numbers together
 };
 
-const subtract = (a, b) => {
+const subtract = (num1, num2) => {
   // subtract the second number from the first
 };
 
-const multiply = (a, b) => {
+const multiply = (num1, num2) => {
   // multiply the two numbers together
 };
 
-const divide = (a, b) => {
+const divide = (num1, num2) => {
   // divide the first number by the second number
 };
 
-const power = (a, b) => {
+const power = (num1, num2) => {
   // multiply the first number by the power of the second number
 };
 
-const round = (a) => {
+const round = (num) => {
   // round the number to the neared whole number
 };
 
-const roundUp = (a) => {
+const roundUp = (num) => {
   // round the number up
 };
 
-const roundDown = (a) => {
+const roundDown = (num) => {
   // round the number down
 };
 
-const absolute = (a) => {
+const absolute = (num) => {
   // return the absolute value of the number
 };
 
-const quotient = (a, b) => {
+const quotient = (num1, num2) => {
   // divide the first number by the second, return the answer without the remainder
 };
 
-const remainder = (a, b) => {
+const remainder = (num1, num2) => {
   // divide the first number by the second, only return the remainder
 };
 
