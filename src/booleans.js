@@ -32,6 +32,7 @@ const isGreaterThan = (a, b) => {
 
 const isLessThanOrEqualTo = (a, b) => {
   // return true if a is less than or equal to b
+};
 
 const isOdd = (a) => {
   // return true if a is odd

@@ -1,61 +1,61 @@
 const getNthElement = (index, array) => {
-  // your code here
+  // return the index element of the array
 };
 
 const arrayToCSVString = (array) => {
-  // your code here
+  // convert an array to an excel string
 };
 
 const csvStringToArray = (string) => {
-  // your code here
+  // convert an excel string to an array
 };
 
 const addToArray = (element, array) => {
-  // your code here
+  // add the element to the array
 };
 
 const addToArray2 = (element, array) => {
-  // your code here
+  // return a new array with the element added to the end
 };
 
 const removeNthElement = (index, array) => {
-  // your code here
+  // remove the index item from the array
 };
 
 const numbersToStrings = (numbers) => {
-  // your code here
+  // convrt the numbers in the array to strings
 };
 
 const uppercaseWordsInArray = (strings) => {
-  // your code here
+  // make every string in the array uppercase
 };
 
 const reverseWordsInArray = (strings) => {
-  // your code here
+  // reverse every word in the array
 };
 
 const onlyEven = (numbers) => {
-  // your code here
+  // return only the even numbers in the arrray
 };
 
 const removeNthElement2 = (index, array) => {
-  // your code here
+  // return a new array with the index item removed
 };
 
 const elementsStartingWithAVowel = (strings) => {
-  // your code here
+  // return all the elements which start with a vowel
 };
 
 const removeSpaces = (string) => {
-  // your code here
+  // remove all the spaces from the strings
 };
 
 const sumNumbers = (numbers) => {
-  // your code here
+  // add all the numbers in the array together
 };
 
 const sortByLastLetter = (strings) => {
-  // your code here
+  // order the strings by their last letter
 };
 
 module.exports = {
